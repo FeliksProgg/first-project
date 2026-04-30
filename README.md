@@ -1,5 +1,5 @@
 # Заголовок 1
-1. first   dd  dd  dd  dd  dd
+1. first   dd  .. dd ..  dd  ..  
 
 ## Заголовок 2
 ~~__Жир__~~
